@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksopitas=self.webpackChunksopitas||[]).push([[470],{6470:(e,n,u)=>{u.r(n),u.d(n,{NotFoundModule:()=>s});var d=u(9808),t=u(1223);let s=(()=>{class o{}return o.\u0275fac=function(a){return new(a||o)},o.\u0275mod=t.oAB({type:o}),o.\u0275inj=t.cJS({imports:[[d.ez]]}),o})()}}]);

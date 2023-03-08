@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksopitas=self.webpackChunksopitas||[]).push([[69],{2069:(M,o,a)=>{a.r(o),a.d(o,{TableOneModule:()=>E});var u=a(9808),n=a(2382),_=a(1315),s=a(1223);let E=(()=>{class l{}return l.\u0275fac=function(t){return new(t||l)},l.\u0275mod=s.oAB({type:l}),l.\u0275inj=s.cJS({imports:[[u.ez,n.UX,n.u5,_.E]]}),l})()}}]);
